@@ -1,19 +1,19 @@
-Input:
-arr = [8, 7, 2, 5, 3, 1]
-sum = 10
+// Input:
+// arr = [8, 7, 2, 5, 3, 1]
+// sum = 10
  
-Output:
-Pair found (8, 2)
-or
-Pair found (7, 3)
+// Output:
+// Pair found (8, 2)
+// or
+// Pair found (7, 3)
  
  
-Input:
-arr = [5, 2, 6, 8, 1, 9]
-sum = 12
+// Input:
+// arr = [5, 2, 6, 8, 1, 9]
+// sum = 12
  
-Output:
-Pair not found
+// Output:
+// Pair not found
 
 function sum(arr, num) {
     let resCount = 0; 
