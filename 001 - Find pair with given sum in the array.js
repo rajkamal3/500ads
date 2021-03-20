@@ -15,8 +15,6 @@ sum = 12
 Output:
 Pair not found
 
-console.clear();
-
 function sum(arr, num) {
     let resCount = 0; 
 
